@@ -1,5 +1,7 @@
 # STM32F469——AI运行实例（手写字识别）多图
 
+[效果视频](https://www.bilibili.com/video/BV11P411c7Rj/?spm_id_from=333.999.0.0&vd_source=62af1020be5485f6b2f29337639498a1)
+
 ![](https://pic.imgdb.cn/item/637220e416f2c2beb1b49e4d.jpg)
 
 本次开发的流程是TouchGFX designer ----->  STM32CubeMX -----> Keil5
