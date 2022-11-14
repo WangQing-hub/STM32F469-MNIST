@@ -1,7 +1,3 @@
----
-typora-root-url: img
----
-
 # STM32F469——AI运行实例（手写字识别）多图
 
 <iframe height="600" width="600" src="//player.bilibili.com/player.html?aid=305092977&bvid=BV11P411c7Rj&cid=891434734&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -10,7 +6,7 @@ typora-root-url: img
 
 之所以采用此流程主要是因为，我们之前有采用STM32CUBEMX创建项目让然后再更改项目，或者直接写代码，但是会遇到各种BUG。我是非硬件科班出身的，是学软件的。对硬件方面的知识了解的不多，所以开发起来会比较费时。最后通过各种尝试才试通了此流程。
 
-整个项目的代码放在我的GitHub上：
+整个项目的代码放在我的GitHub上：https://github.com/WangQing-hub/STM32F469-MNIST
 
 ## 1. 开发板简介
 
