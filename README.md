@@ -4,7 +4,7 @@ typora-root-url: img
 
 # STM32F469——AI运行实例（手写字识别）多图
 
-<iframe height="600" width="600" src="//player.bilibili.com/player.html?aid=305092977&bvid=BV11P411c7Rj&cid=891434734&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=305092977&bvid=BV11P411c7Rj&cid=891434734&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 本次开发的流程是TouchGFX designer ----->  STM32CubeMX -----> Keil5
 
