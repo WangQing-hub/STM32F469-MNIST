@@ -1,6 +1,6 @@
-# STM32F469——AI与运行实例（手写字识别）多图
+# STM32F469——AI运行实例（手写字识别）多图
 
-<video src="C:\Users\17460\Desktop\STM32\VID_20221104_171246.mp4"></video>
+<iframe height="600" width="600" src="//player.bilibili.com/player.html?aid=305092977&bvid=BV11P411c7Rj&cid=891434734&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 本次开发的流程是TouchGFX designer ----->  STM32CubeMX -----> Keil5
 
@@ -583,7 +583,7 @@ while循环中：
 
 等烧录成功之后就可以正常运行，当前使用的时用户按键作为识别按钮。
 
-<img src="C:\Users\17460\Documents\Tencent Files\1746098836\FileRecv\MobileFile\1668409964957.jpg" alt="1668409964957" style="zoom:20%;" />
+<img src="C:\Users\17460\Desktop\1668409964957.jpg" alt="1668409964957" style="zoom:20%;" />
 
 ## 5.后续
 
