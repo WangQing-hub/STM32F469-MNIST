@@ -562,6 +562,7 @@ void MX_X_CUBE_AI_Process(const ai_float *in_data, ai_float *out_data,const ai_u
 main函数中相关设置
 
 ![image-20221114145807300](img/image-20221114145807300.png)
+
 记得将此位置注释：
 
 ![image-20230219170435773](img/image-20230219170435773.png)
